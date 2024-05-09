@@ -1,0 +1,31 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: #92f8f3;
+  }
+.titulo{
+    display: flex;
+    justify-content: center;
+}
+
+.img-principal{
+    display: flex;
+    justify-content: center;
+}
+
+.MyV{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    gap: 10%;
+}
+
+
+.navegacion{
+    display: flex;
+    flex-direction: row;
+    gap: 10%;
+    
+}
+
